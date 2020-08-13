@@ -2,10 +2,11 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set noautoindent
-set mouse=nicr
+set mouse=
 set ffs=unix,dos,mac
 set ignorecase
 set smartcase
+set background=dark
 au BufNewFile,BufRead *.ejs setfiletype ejs syntax=html
 set encoding=utf8
 set noeol
