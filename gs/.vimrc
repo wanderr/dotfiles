@@ -2,7 +2,6 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set noautoindent
-set mouse=nicr
 set ffs=unix,dos,mac
 set ignorecase
 set smartcase
